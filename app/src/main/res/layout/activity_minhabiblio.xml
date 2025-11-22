@@ -275,7 +275,7 @@
                         android:id="@+id/buscar0000"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
-                        android:src="@drawable/imagem_do_whatsapp_de_2025_09_14___s__23_46_09_5baa6c36" />
+                        android:src="@drawable/perfil" />
 
                 </LinearLayout>
 

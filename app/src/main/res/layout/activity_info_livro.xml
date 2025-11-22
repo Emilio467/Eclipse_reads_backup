@@ -214,7 +214,7 @@
                         android:id="@+id/Buscar"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
-                        android:src="@drawable/imagem_do_whatsapp_de_2025_09_14___s__23_45_27_e7f985b2" />
+                        android:src="@drawable/home" />
 
                 </LinearLayout>
 
@@ -240,7 +240,7 @@
                         android:id="@+id/buscar00"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
-                        android:src="@drawable/imagem_do_whatsapp_de_2025_09_14___s__23_48_44_23c6453a" />
+                        android:src="@drawable/biblioteca" />
 
                 </LinearLayout>
 
@@ -253,7 +253,7 @@
                         android:id="@+id/buscar000"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
-                        android:src="@drawable/imagem_do_whatsapp_de_2025_09_14___s__23_47_07_8813f53b" />
+                        android:src="@drawable/configura__es" />
 
                 </LinearLayout>
 
@@ -266,7 +266,7 @@
                         android:id="@+id/buscar0000"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
-                        android:src="@drawable/imagem_do_whatsapp_de_2025_09_14___s__23_46_09_5baa6c36" />
+                        android:src="@drawable/perfil" />
 
                 </LinearLayout>
 
